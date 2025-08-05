@@ -78,7 +78,7 @@ A escolha final do modelo foi baseada no equilíbrio entre essas métricas, cons
 📌 Requisitos
 * Python 3.10+
 
-*Bibliotecas listadas no arquivo requirements.txt (opcional)
+*Bibliotecas listadas no arquivo requirements.txt
 
 👨‍💻 Autor
 Rafael Maximino
