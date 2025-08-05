@@ -39,8 +39,11 @@ A escolha final do modelo foi baseada no equilíbrio entre essas métricas, cons
 
 ## 📁 Estrutura do Projeto
 📦ai-for-hr-analytics
+
 ┣ 📜ai-for-hr-analytics.ipynb
+
 ┣ 📜employee_model.pkl
+
 ┣ 📜README.md
 
 
